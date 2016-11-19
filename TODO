@@ -1,0 +1,11 @@
+*********************************************************************
+*   argparsercpp - TODO FILE                                        *
+*********************************************************************
+
+- Create description and epilog on help info; -> DONE
+- Indent usage line; -> DONE
+- Add description on command to create a help information; -> DONE
+- Add a subcomands structure to enable use subcommands (ex. git);
+- Explore python argparser to find more features;
+- Refactor retrive function to know when no argument is set;
+- Create description for project and use info on README.md file;
